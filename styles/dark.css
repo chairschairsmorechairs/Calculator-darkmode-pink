@@ -8,7 +8,7 @@
 }
 
 ::placeholder {
-  color: rgb(221, 221, 221);
+  color: rgb(107, 70, 81);
 }
 
 .wrapper {
@@ -51,7 +51,7 @@ h1 {
 
 input {
   padding: 25px;
-  color: rgb(182, 113, 133);
+  color: rgb(255, 255, 255);
   font-size: 1em;
   cursor: pointer;
   width: 70px;
