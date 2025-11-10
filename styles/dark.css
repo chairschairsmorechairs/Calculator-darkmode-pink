@@ -18,7 +18,7 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  background-color: rgb(20, 19, 19);
+  background-color: rgb(169, 85, 171);
   transition: 0.8s all;
 }
 
@@ -51,7 +51,7 @@ h1 {
 
 input {
   padding: 25px;
-  color: rgb(255, 255, 255);
+  color: rgb(163, 96, 158);
   font-size: 1em;
   cursor: pointer;
   width: 70px;
