@@ -51,11 +51,11 @@ h1 {
 
 input {
   padding: 25px;
-  color: rgb(163, 96, 158);
+  color: rgb(161, 115, 146);
   font-size: 1em;
   cursor: pointer;
   width: 70px;
-  background-color: rgb(47, 51, 50);
+  background-color: rgb(25, 25, 25);
   border: none;
   outline: none;
   border-radius: 100px;
@@ -82,7 +82,7 @@ input[type="button"]:hover {
 
 #clear-button {
   color: #fff;
-  background-color: rgb(255, 42, 42);
+  background-color: rgb(133, 88, 122);
 }
 
 a {
