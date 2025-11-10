@@ -8,7 +8,7 @@
 }
 
 ::placeholder {
-  color: rgb(221, 221, 221);
+  color: #ccc; /* placeholder lighter for readability */
 }
 
 .wrapper {
@@ -18,13 +18,13 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  background-color: rgb(169, 85, 171);
+  background-color: #000; /* black background for contrast */
   transition: 0.8s all;
 }
 
 h1 {
   margin-bottom: 1.5%;
-  color: #fff;
+  color: #fff; /* white title text */
   font-weight: normal;
 }
 
@@ -46,55 +46,9 @@ h1 {
 .top-buttons {
   display: flex;
   align-items: center;
-
 }
 
 input {
   padding: 25px;
-  color: rgb(161, 115, 146);
-  font-size: 1em;
-  cursor: pointer;
-  width: 70px;
-  background-color: rgb(25, 25, 25);
-  border: none;
-  outline: none;
-  border-radius: 100px;
-  margin: 0.2em;
-}
-
-.first-row,
-.second-row,
-.third-row,
-.fourth-row,
-.fifth-row {
-  margin-bottom: 4px;
-}
-
-input[type="text"] {
-  background-color: rgb(47, 51, 50);
-  width: 222.5px;
-}
-
-input[type="button"]:hover {
-  background-color: rgb(101, 101, 101);
   color: #fff;
-}
 
-#clear-button {
-  color: #fff;
-  background-color: rgb(133, 88, 122);
-}
-
-a {
-  text-decoration: none;
-  color: #fff;
-}
-
-#github-icon {
-  margin-right: 10px;
-}
-
-.theme-button {
-  all: unset;
-  cursor: pointer;
-}
