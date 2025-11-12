@@ -77,7 +77,7 @@ input[type="text"] {
 
 input[type="button"]:hover {
   background-color: rgb(255, 255, 255);
-  color: #fff;
+  color: rgb(214, 134, 157);
 }
 
 #clear-button {
